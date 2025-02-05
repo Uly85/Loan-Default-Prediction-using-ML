@@ -1,5 +1,5 @@
 
-# Loan Default Prediction - Marketing Customer Segmentation & Churn Analysis (Final Project)
+# Loan Default Prediction - Customer Segmentation & Churn Analysis (Final Project)
 
 * Analyzed financial data from 400 customers to predict loan defaults, focusing on both paid-off and defaulted loans.
 * Conducted extensive data cleaning and preprocessing, including feature extraction, One-Hot Encoding, and transforming categorical features into numerical formats.
