@@ -1,8 +1,8 @@
-# Marketing Customer Segmentation & Churn Analysis	 Final-Project
 
-*	Analyze financial data to predict loan defaults using about 400 customers whose loan are already paid off or defaulted. 
-*	Performed data cleaning, data pre-processing using feature selection/extraction technique (convert categorical features to numerical values, One Hot Encoding and visualize data using seaborn). 
-*	Develop machine learning model using classification algorithms including K Nearest Neighbor (KNN), Decision Tree, Support Vector Machine, Logistic Regression utilizing Python. 
-*	Provide insightful recommendations and strategic marketing decisions based on customer segmentation and profiling.
+# Loan Default Prediction - Marketing Customer Segmentation & Churn Analysis (Final Project)
 
-
+* Analyzed financial data from 400 customers to predict loan defaults, focusing on both paid-off and defaulted loans.
+* Conducted extensive data cleaning and preprocessing, including feature extraction, One-Hot Encoding, and transforming categorical features into numerical formats.
+* Built predictive machine learning models using classification algorithms: K-Nearest Neighbor (KNN), Decision Tree, Support Vector Machine (SVM), and Logistic Regression in Python.
+* Visualized key insights using Seaborn, highlighting trends in customer behavior and loan repayment patterns.
+Generated strategic marketing recommendations based on customer segmentation to reduce churn and improve targeting.
